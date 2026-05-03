@@ -119,6 +119,11 @@ html[data-theme="dark"] {
   .only-dark {
     display: block;
   }
+
+  /* Ensure card titles are readable on dark backgrounds */
+  .card .card-title {
+    color: var(--global-hover-text-color) !important;
+  }
 }
 
 html[data-theme-setting="dark"] {

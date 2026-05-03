@@ -1,0 +1,31 @@
+posters:
+  - slug: 2026_ai_for_oncology
+    title: "Automated and Explainable Outcome Prediction in NSCLC: Beyond Manual Feature Extraction using LLM Embeddings"
+    year: 2026
+    conference: "AI for Oncology"
+    date: "May 2026"
+    location: "Milan, Italy"
+    authors:
+      - "Ferrarin A."
+      - "Arangoa T."
+
+  - slug: 2025_ai_for_oncology
+    title: "A Multi-Modal Ensemble Learning Approach for Early Survival Prediction"
+    year: 2025
+    conference: "AI for Oncology"
+    date: "May 2025"
+    location: "Milan, Italy"
+    authors:
+      - "Ferrarin A."
+      - "Miskovic V."
+
+  - slug: 2025_esmo
+    title: "Improving Survival Prediction in NSCLC through Clinical Report Embeddings: A Comparison with Structured Tabular Data and Multimodal Fusion Model"
+    year: 2025
+    conference: "ESMO Congress"
+    date: "November 2025"
+    location: "Berlin, Germany"
+    authors:
+      - "Ferrarin A."
+      - "Licciardello C."
+      - "Peppoloni V."
