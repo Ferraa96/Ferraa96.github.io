@@ -9,7 +9,6 @@ cv:
 
   sections:
     Education:
-          
       - institution: Politecnico di Milano
         location: Milan, Italy
         area: Computer Science and Engineering
@@ -34,12 +33,12 @@ cv:
         location: Milan, Italy
         start_date: 2024-06
         highlights:
-            - Working on multiple data science and machine learning projects in the healthcare domain, including the EU-funded I3LUNG project on predictive modeling for immunotherapy response.
-            - Designed and implemented predictive models (traditional ML and neural networks) for large-scale clinical datasets (2,000+ patients), focusing on accuracy, robustness, and interpretability.
-            - Developed fusion models for multimodal data, integrating clinical, radiological, and pathological information, with support for missing modalities to enhance predictive performance.
-            - Streamlined data preprocessing and curation pipelines to ensure high-quality, consistent inputs for machine learning workflows.
-            - Presented results to cross-functional teams and international stakeholders at annual project meetings.
-            - Visiting Researcher at RWTH Aachen University (Aachen, Germany), March 2026, developing digital twin to simulate and model disease trajectories in NSCLC patients.
+          - Working on multiple data science and machine learning projects in the healthcare domain, including the EU-funded I3LUNG project on predictive modeling for immunotherapy response.
+          - Designed and implemented predictive models (traditional ML and neural networks) for large-scale clinical datasets (2,000+ patients), focusing on accuracy, robustness, and interpretability.
+          - Developed fusion models for multimodal data, integrating clinical, radiological, and pathological information, with support for missing modalities to enhance predictive performance.
+          - Streamlined data preprocessing and curation pipelines to ensure high-quality, consistent inputs for machine learning workflows.
+          - Presented results to cross-functional teams and international stakeholders at annual project meetings.
+          - Visiting Researcher at RWTH Aachen University (Aachen, Germany), March 2026, developing digital twin to simulate and model disease trajectories in NSCLC patients.
       - company: Politecnico di Milano
         position: Data Scientist, Fellowship Researcher
         location: Milano, Italy
