@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://Ferraa96.github.io/Ferraa96/sitemap.xml
+Sitemap: https://Ferraa96.github.io/sitemap.xml
