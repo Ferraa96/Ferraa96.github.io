@@ -8,6 +8,7 @@ posters:
     authors:
       - "Ferrarin A."
       - "Arangoa T."
+    summary: "Short summary placeholder: brief description of the poster's aim and main result."
 
   - slug: 2025_ai_for_oncology
     title: "A Multi-Modal Ensemble Learning Approach for Early Survival Prediction"
@@ -18,6 +19,7 @@ posters:
     authors:
       - "Ferrarin A."
       - "Miskovic V."
+    summary: "Short summary placeholder: brief description of the poster's aim and main result."
 
   - slug: 2025_esmo
     title: "Improving Survival Prediction in NSCLC through Clinical Report Embeddings: A Comparison with Structured Tabular Data and Multimodal Fusion Model"
@@ -29,3 +31,4 @@ posters:
       - "Ferrarin A."
       - "Licciardello C."
       - "Peppoloni V."
+    summary: "Short summary placeholder: brief description of the poster's aim and main result."
