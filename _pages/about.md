@@ -24,9 +24,8 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Data Scientist with expertise in predictive modeling, machine learning, and data-driven optimization. 
+Data Scientist with expertise in predictive modeling, machine learning, and data-driven optimization.
 
-Experienced in designing and deploying AI solutions across diverse domains, with a focus on accuracy, robustness, and interpretability. 
+Experienced in designing and deploying AI solutions across diverse domains, with a focus on accuracy, robustness, and interpretability.
 
 Skilled in collaborating with cross-functional teams to transform complex datasets into actionable insights and drive data-informed decision-making.
-
