@@ -59,15 +59,6 @@ module Jekyll
       </div>
     </div>
 
-    <div class="card border-0 shadow-sm mt-3">
-      <div class="card-body">
-        <h5 class="card-title">Authors</h5>
-        <ul class="list-unstyled">
-          #{authors.map { |author| "<li>#{author}</li>" }.join("\n          ")}
-        </ul>
-      </div>
-    </div>
-
   </div>
 </div>
 CONTENT

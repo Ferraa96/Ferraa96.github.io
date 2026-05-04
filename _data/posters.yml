@@ -2,7 +2,7 @@ posters:
   - slug: 2026_ai_for_oncology
     title: "Automated and Explainable Outcome Prediction in NSCLC: Beyond Manual Feature Extraction using LLM Embeddings"
     year: 2026
-    conference: "AI for Oncology"
+    conference: "Artificial Intelligence for Oncology"
     date: "May 2026"
     location: "Milan, Italy"
     authors:
@@ -13,7 +13,7 @@ posters:
   - slug: 2025_ai_for_oncology
     title: "A Multi-Modal Ensemble Learning Approach for Early Survival Prediction"
     year: 2025
-    conference: "AI for Oncology"
+    conference: "Artificial Intelligence for Oncology"
     date: "May 2025"
     location: "Milan, Italy"
     authors:
@@ -24,7 +24,7 @@ posters:
   - slug: 2025_esmo
     title: "Improving Survival Prediction in NSCLC through Clinical Report Embeddings: A Comparison with Structured Tabular Data and Multimodal Fusion Model"
     year: 2025
-    conference: "ESMO Congress"
+    conference: "ESMO AI & Digital Oncology"
     date: "November 2025"
     location: "Berlin, Germany"
     authors:
