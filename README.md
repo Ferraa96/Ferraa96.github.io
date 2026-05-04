@@ -1,4 +1,4 @@
-# Alberto Ferrarin — Personal Website
+# Alberto Ferrarin - Personal Website
 
 This repository contains the source code for my personal academic website, built with [al-folio](https://github.com/alshedivat/al-folio) and hosted with GitHub Pages.
 
