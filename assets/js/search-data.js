@@ -74,6 +74,13 @@ ninja.data = [{
           window.open("https://scholar.google.com/citations?user=31nuDicAAAAJ", "_blank");
         },
       },{
+        id: 'social-linkedin',
+        title: 'LinkedIn',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://www.linkedin.com/in/alberto-ferrarin-469404227", "_blank");
+        },
+      },{
       id: 'light-theme',
       title: 'Change theme to light',
       description: 'Change the theme of the site to Light',
